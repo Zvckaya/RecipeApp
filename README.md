@@ -1,16 +1,17 @@
 # recipes
 
-A new Flutter project.
+플루터 공부를 위해 제작
 
-## Getting Started
+main, runApp
+stateless,statefulWidget
+build와 BuildContext
 
-This project is a starting point for a Flutter application.
+Widget
+Card,SizedBox,
+safeArea,Expanded,
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MaterialApp=>Scaffold=>AppBar
+                     =>body
+ListView=>builder(itemCount,itemBulder)
+GestureDetector=>onTap
+Navigator 1.0관련 공부
